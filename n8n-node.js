@@ -1,3 +1,4 @@
+// Format: | pour mots-clés à chercher, - pour mots à exclure
 const input = `
 ## Design, communication visuelle et multimédia
 
